@@ -1,0 +1,16 @@
+.header__navbar {
+    padding: 0;
+}
+
+.about__name {
+    font-weight: 300;
+}
+
+.about__profession {
+    font-weight: 100;
+    opacity: 0.6;
+}
+
+.about__content {
+    text-align: justify;
+}
